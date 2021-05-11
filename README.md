@@ -1,3 +1,7 @@
 # repositorio-prueba
-##subtitulo
-Lorem Ipsum
+## subtitulo
+### subtitulo
+#### subtitulo
+
+*Lorem Ipsum*
+**Lorem Ipsum**
